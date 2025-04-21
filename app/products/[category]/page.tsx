@@ -149,7 +149,7 @@ const productData = {
       isBestSeller: true,
     },
     {
-      id: "the",
+      id: 11,
       name: "KeySmart Multi-Tool",
       price: 14.99,
       image:
